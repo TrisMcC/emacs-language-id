@@ -112,6 +112,7 @@
     ("Nix" nix-mode)
     ("Objective-C" objc-mode)
     ("OCaml" caml-mode tuareg-mode)
+    ("Pascal" pascal-mode)
     ("Perl" cperl-mode perl-mode)
     ("Protocol Buffer" protobuf-mode)
     ("PureScript" purescript-mode)
